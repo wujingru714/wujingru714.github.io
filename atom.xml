@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-28T09:14:40.765Z</updated>
+  <updated>2021-10-28T09:27:22.409Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>c语言</title>
+    <link href="http://example.com/2021/10/28/c%E8%AF%AD%E8%A8%80/"/>
+    <id>http://example.com/2021/10/28/c%E8%AF%AD%E8%A8%80/</id>
+    <published>2021-10-28T09:24:31.000Z</published>
+    <updated>2021-10-28T09:27:22.409Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="初始c语言"><a href="#初始c语言" class="headerlink" title="初始c语言"></a>初始c语言</h1><p>四、规范<br>一个说明或一个语句占一行，例如：包含头文件、一个可执行语句结束都需要换行。<br>函数体内的语句要有明显缩进，通常以按一下Tab键为一个缩进。<br>括号要成对写，如果需要删除的话也要成对删除。<br>当一句可执行语句结束的时候末尾需要有分号。<br>代码中所有符号均为英文半角符号。</p><p>五、程序解释——注释<br>注释是写给程序员看的，不是写给电脑看的。</p><p>C语言注释方法有两种：</p><p>多行注释： /* 注释内容 */</p><p>单行注释： //注释一行五、程序解释——注释<br>注释是写给程序员看的，不是写给电脑看的。</p><p>C语言注释方法有两种：</p><p>多行注释： /* 注释内容 */</p><p>单行注释： //注释一行</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;初始c语言&quot;&gt;&lt;a href=&quot;#初始c语言&quot; class=&quot;headerlink&quot; title=&quot;初始c语言&quot;&gt;&lt;/a&gt;初始c语言&lt;/h1&gt;&lt;p&gt;四、规范&lt;br&gt;一个说明或一个语句占一行，例如：包含头文件、一个可执行语句结束都需要换行。&lt;br&gt;函数体内的语句要有</summary>
+      
+    
+    
+    
+    <category term="web前端" scheme="http://example.com/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>程序设计基础</title>
