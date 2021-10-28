@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-27T17:12:10.250Z</updated>
+  <updated>2021-10-28T09:14:40.765Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>程序设计基础</title>
+    <link href="http://example.com/2021/10/28/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/"/>
+    <id>http://example.com/2021/10/28/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/</id>
+    <published>2021-10-28T09:07:18.000Z</published>
+    <updated>2021-10-28T09:14:40.765Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="c语言基础"><a href="#c语言基础" class="headerlink" title="c语言基础"></a>c语言基础</h1><p>一、C语言基础知识入门<br>C语言一经出现就以其功能丰富、表达能力强、灵活方便、应用面广等特点迅速在全世界普及和推广。C语言不但执行效率高而且可移植性好，可以用来开发应用软件、驱动、操作系统等。C语言也是其它众多高级语言的鼻祖语言，所以说学习C语言是进入编程世界的必修课！</p><p>二、C语言的具体结构<br>简单来说，一个C程序就是由若干头文件和函数组成。</p><p>#include &lt;stdio.h&gt;就是一条预处理命令, 它的作用是通知C语言编译系统在对C程序进行正式编译之前需做一些预处理工作。</p><p>函数就是实现代码逻辑的一个小的单元。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;c语言基础&quot;&gt;&lt;a href=&quot;#c语言基础&quot; class=&quot;headerlink&quot; title=&quot;c语言基础&quot;&gt;&lt;/a&gt;c语言基础&lt;/h1&gt;&lt;p&gt;一、C语言基础知识入门&lt;br&gt;C语言一经出现就以其功能丰富、表达能力强、灵活方便、应用面广等特点迅速在全世界普及和推</summary>
+      
+    
+    
+    
+    <category term="web前端" scheme="http://example.com/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
